@@ -1,0 +1,11 @@
+.Count-content {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 8px;
+}
+
+.Count-button {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
